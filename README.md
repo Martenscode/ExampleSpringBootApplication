@@ -9,7 +9,8 @@ INFORMATION
 6. Swagger documentation at /swagger-ui.html
 7. Has dev/test/unit properties set up
 8. You're gonna have to set up logging yourself
-9. Has example Controller, Service and Repository tests (!)
+9. Has example Controller, Service and Repository tests
+10. Health check monitoring at /actuator/health
 
 #
 
