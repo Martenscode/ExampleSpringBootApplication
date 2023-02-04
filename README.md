@@ -8,6 +8,7 @@ INFORMATION
 5. Used MyBatis instead of Hibernate
 6. Swagger documentation at /swagger-ui.html
 7. Has dev/test/unit properties set up
+8. You're gonna have to set up logging yourself.
 
 #
 
