@@ -10,6 +10,7 @@ INFORMATION
 4. You're gonna have to set up logging yourself
 5. Has example Controller, Service and Repository unit tests
 6. Health check monitoring at /actuator/health
+7. TODO: add db migration (e.g. flyway)
 
 #
 
