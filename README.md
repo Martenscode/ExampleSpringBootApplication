@@ -1,7 +1,7 @@
 #
-Spring Boot 2.7.8
-Java 17
-PostgreSQL (Used MyBatis instead of Hibernate)
+Spring Boot 2.7.8 <br>
+Java 17 <br>
+PostgreSQL (Used MyBatis instead of Hibernate) <br>
 
 INFORMATION
 1. Change <db_name> in .properties to your db name.
