@@ -36,21 +36,18 @@ public class ExampleControllerTests {
     @Autowired
     private ExampleService service;
 
-    @Autowired
-    private ExampleRepository repository;
-
     @Test
     public void testExamplesGET() throws Exception {
         List<Example> examples = new ArrayList<>();
         Example example1 = new Example();
         example1.setName("testName1");
         example1.setEmail("testEmail1");
-        repository.save(example1);
+        service.save(example1);
 
         Example example2 = new Example();
         example2.setName("testName2");
         example2.setEmail("testEmail2");
-        repository.save(example2);
+        service.save(example2);
 
         examples.add(example1);
         examples.add(example2);
