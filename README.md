@@ -1,16 +1,15 @@
 #
 Spring Boot 2.7.8
 Java 17
-PostgreSQL
+PostgreSQL (Used MyBatis instead of Hibernate)
 
 INFORMATION
 1. Change <db_name> in .properties to your db name.
-2. Used MyBatis instead of Hibernate
+2. Has dev/test/unit properties set up
 3. Swagger documentation at /swagger-ui.html
-4. Has dev/test/unit properties set up
-5. You're gonna have to set up logging yourself
-6. Has example Controller, Service and Repository tests
-7. Health check monitoring at /actuator/health
+4. You're gonna have to set up logging yourself
+5. Has example Controller, Service and Repository unit tests
+6. Health check monitoring at /actuator/health
 
 #
 
