@@ -14,7 +14,8 @@ INFORMATION
 1. Set up databases
     - Create database
     - Create tables
-2. Build and run
+2. Change code according to your database
+3. Build and run
 
 #
 
