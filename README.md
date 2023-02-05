@@ -5,7 +5,7 @@ PostgreSQL (Used MyBatis instead of Hibernate) <br>
 
 INFORMATION
 
-0. Set active profile in VM options: -Dspring.profiles.active=<env>
+0. Set active profile in VM options: -Dspring.profiles.active=...
 1. Change <db_name> in .properties to your db name.
 2. Has dev/test/unit properties set up
 3. Swagger documentation at /swagger-ui.html
